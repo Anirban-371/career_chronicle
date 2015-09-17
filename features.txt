@@ -1,0 +1,129 @@
+<section id="features" class="page-section colord features">
+  <div class="container">
+    <div class="heading text-center"> -->
+      <!-- Heading -->
+      <!--<h2>Features</h2>
+      <p>At lorem Ipsum available, but the majority have suffered alteration in some form by injected humour.</p>
+    </div>
+    <div class="row"> -->
+      
+      <!-- FEATURES LEFT -->
+      <!--
+      <div class="col-md-4 col-sm-4 features-left wow"> 
+        
+        <!-- FEATURE -->
+        <!--<div class="feature"> -->
+          
+          <!-- ICON -->
+          <!--
+          <div class="icon-container">
+            <div class="icon"> <i class="icon_map_alt"></i> </div>
+          </div>-->
+          
+          <!-- FEATURE HEADING AND DESCRIPTION -->
+          <div class="fetaure-details">
+            <h4 class="main-color">Responsive Design</h4>
+            <p> Lorem ipsum dolor sit amet, ea eum labitur scsstie percioleat fabulas labore et dolor. </p>
+          </div>
+        </div>
+        <!-- /END SINGLE FEATURE --> 
+        
+        <!-- FEATURE -->
+        <div class="feature"> 
+          
+          <!-- ICON -->
+          <div class="icon-container">
+            <div class="icon"> <i class="icon_gift_alt"></i> </div>
+          </div>
+          
+          <!-- FEATURE HEADING AND DESCRIPTION -->
+          <div class="fetaure-details">
+            <h4 class="main-color">Bootstrap 3.2.2</h4>
+            <p> Lorem ipsum dolor sit amet, ea eum labitur scsstie percioleat fabulas labore et dolor.</p>
+          </div>
+        </div>
+        <!-- /END SINGLE FEATURE --> 
+        
+        <!-- FEATURE -->
+        <div class="feature"> 
+          
+          <!-- ICON -->
+          <div class="icon-container">
+            <div class="icon"> <i class="icon_tablet"></i> </div>
+          </div>
+          
+          <!-- FEATURE HEADING AND DESCRIPTION -->
+          <div class="fetaure-details">
+            <h4 class="main-color">Cross-Browser Support</h4>
+            <p> Lorem ipsum dolor sit amet, ea eum labitur scsstie percioleat fabulas labore et dolor. </p>
+          </div>
+        </div>
+        <!-- /END SINGLE FEATURE --> 
+        
+      </div>
+      <!-- /END FEATURES LEFT --> 
+      
+      <!-- PHONE IMAGE -->
+      <div class="col-md-4 col-sm-4">
+        <div class="phone-image wow"> <img src="images/single-iphone.png" alt=""> </div>
+      </div>
+      
+      <!-- FEATURES RIGHT -->
+      <div class="col-md-4 col-sm-4 features-right wow" > 
+        
+        <!-- FEATURE -->
+        <div class="feature"> 
+          
+          <!-- ICON -->
+          <div class="icon-container">
+            <div class="icon"> <i class="icon_genius"></i> </div>
+          </div>
+          
+          <!-- FEATURE HEADING AND DESCRIPTION -->
+          <div class="fetaure-details">
+            <h4 class="main-color">Awesome Fonts</h4>
+            <p> Lorem ipsum dolor sit amet, ea eum labitur scsstie percioleat fabulas labore et dolor. </p>
+          </div>
+        </div>
+        <!-- /END SINGLE FEATURE --> 
+        
+        <!-- FEATURE -->
+        <div class="feature"> 
+          
+          <!-- ICON -->
+          <div class="icon-container">
+            <div class="icon"> <i class="icon_lightbulb_alt"></i> </div>
+          </div>
+          
+          <!-- FEATURE HEADING AND DESCRIPTION -->
+          <div class="fetaure-details">
+            <h4 class="main-color">Creative Design</h4>
+            <p> Lorem ipsum dolor sit amet, ea eum labitur scsstie percioleat fabulas labore et dolor. </p>
+          </div>
+        </div>
+        
+        <!-- /END SINGLE FEATURE --> 
+        
+        <!-- FEATURE -->
+        <div class="feature"> 
+          
+          <!-- ICON -->
+          <div class="icon-container">
+            <div class="icon"> <i class="icon_ribbon_alt"></i> </div>
+          </div>
+          
+          <!-- FEATURE HEADING AND DESCRIPTION -->
+          <div class="fetaure-details">
+            <h4 class="main-color">More Features</h4>
+            <p> Lorem ipsum dolor sit amet, ea eum labitur scsstie percioleat fabulas labore et dolor. </p>
+          </div>
+        </div>
+        <!-- /END SINGLE FEATURE --> 
+        
+      </div>
+      <!-- /END FEATURES RIGHT --> 
+      
+    </div>
+  </div>
+  <!--/.container--> 
+</section>
